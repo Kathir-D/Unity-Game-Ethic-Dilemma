@@ -3,4 +3,4 @@
 ## FBLA Game development and simulation event 24-25
 
 
-### All the test commits were adding unity project files 100mb at a time
+### All the test commits we're adding unity project files 100mb at a time
