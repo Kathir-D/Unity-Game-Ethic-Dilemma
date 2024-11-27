@@ -10,6 +10,7 @@
 [Ll]ogs/
 [Uu]nity/[Uu]ser[Ss]ettings/
 [Uu]nity/.idea
+[Uu]nity/[Ll]ibrary/PackageCache/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
