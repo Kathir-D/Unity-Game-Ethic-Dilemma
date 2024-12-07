@@ -10,6 +10,7 @@ public class OptionsMenu : MonoBehaviour
    }
    public void setFullScreen(bool isFullScreen)
    {
+      Debug.Log("Fullscreen: " + isFullScreen);
       Screen.fullScreen = isFullScreen;
    }
 }
