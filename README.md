@@ -1,3 +1,5 @@
+# This sucks use this as a template if you want
+
 # Unity-Game-Ethics-Dilemma
  
 ## FBLA Game development and simulation event 24-25
